@@ -1,0 +1,305 @@
+{
+ "loja": "Trypace",
+ "site": "https://trypace.com.br/",
+ "atualizado": "2026-10-20",
+ "moeda": "BRL",
+ "cidade": "Joinville, SC, Brasil",
+ "como_comprar": "Monte a sacola no site e finalize pelo direct do Instagram (https://ig.me/m/trypace). Pagamento e entrega são combinados na conversa.",
+ "aviso": "Loja independente de relógios seminovos. Não é loja oficial Garmin.",
+ "produtos": [
+  {
+   "id": "fr55",
+   "nome": "Garmin Forerunner 55",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 850,
+   "url": "https://trypace.com.br/forerunner-55.html",
+   "perfil": [
+    "quem está começando a correr"
+   ],
+   "resumo": "GPS · treino sugerido",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,04\"",
+    "Bateria no modo relógio": "2 semanas",
+    "Bateria com GPS": "20 h",
+    "GPS": "Simples",
+    "Métrica de recuperação": "Treino sugerido",
+    "Música offline": "Não",
+    "Mapas": "Não",
+    "Multiesporte": "Não",
+    "Pagamento por aproximação": "Não",
+    "Resistência à água": "5 ATM",
+    "Peso": "37 g"
+   }
+  },
+  {
+   "id": "fr245",
+   "nome": "Garmin Forerunner 245",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 900,
+   "url": "https://trypace.com.br/forerunner-245.html",
+   "perfil": [
+    "quem está começando a correr",
+    "quem já corre com frequência e quer evoluir"
+   ],
+   "resumo": "Status de treino · dinâmicas",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,2\"",
+    "Bateria no modo relógio": "7 dias",
+    "Bateria com GPS": "24 h",
+    "GPS": "Simples",
+    "Métrica de recuperação": "Status de treino",
+    "Música offline": "Não",
+    "Mapas": "Não",
+    "Multiesporte": "Não",
+    "Pagamento por aproximação": "Não",
+    "Resistência à água": "5 ATM",
+    "Peso": "38,5 g"
+   }
+  },
+  {
+   "id": "fr245m",
+   "nome": "Garmin Forerunner 245 Music",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 1200,
+   "url": "https://trypace.com.br/forerunner-245-music.html",
+   "perfil": [
+    "quem já corre com frequência e quer evoluir"
+   ],
+   "resumo": "Música · Garmin Pay",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,2\"",
+    "Bateria no modo relógio": "6 dias",
+    "Bateria com GPS": "24 h",
+    "GPS": "Simples",
+    "Métrica de recuperação": "Status de treino",
+    "Música offline": "Sim",
+    "Mapas": "Não",
+    "Multiesporte": "Não",
+    "Pagamento por aproximação": "Sim",
+    "Resistência à água": "5 ATM",
+    "Peso": "38,5 g"
+   }
+  },
+  {
+   "id": "fr165",
+   "nome": "Garmin Forerunner 165",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 1450,
+   "url": "https://trypace.com.br/forerunner-165.html",
+   "perfil": [
+    "quem está começando a correr",
+    "quem já corre com frequência e quer evoluir"
+   ],
+   "resumo": "AMOLED · Body Battery",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "AMOLED 1,2\"",
+    "Bateria no modo relógio": "11 dias",
+    "Bateria com GPS": "19 h",
+    "GPS": "Simples",
+    "Métrica de recuperação": "Body Battery e VFC",
+    "Música offline": "Não",
+    "Mapas": "Não",
+    "Multiesporte": "Não",
+    "Pagamento por aproximação": "Não",
+    "Resistência à água": "5 ATM",
+    "Peso": "39 g"
+   }
+  },
+  {
+   "id": "fr255",
+   "nome": "Garmin Forerunner 255",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 1500,
+   "url": "https://trypace.com.br/forerunner-255.html",
+   "perfil": [
+    "quem treina com planilha para provas",
+    "triatletas e quem faz provas longas"
+   ],
+   "resumo": "GPS multibanda · modo triathlon",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,3\"",
+    "Bateria no modo relógio": "14 dias",
+    "Bateria com GPS": "30 h",
+    "GPS": "Multibanda",
+    "Métrica de recuperação": "Status de VFC",
+    "Música offline": "Não",
+    "Mapas": "Não",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Não",
+    "Resistência à água": "5 ATM",
+    "Peso": "49 g"
+   }
+  },
+  {
+   "id": "pace3",
+   "nome": "COROS Pace 3",
+   "marca": "COROS",
+   "condicao": "seminovo revisado",
+   "preco": 1600,
+   "url": "https://trypace.com.br/coros-pace-3.html",
+   "perfil": [
+    "quem já corre com frequência e quer evoluir",
+    "quem treina com planilha para provas"
+   ],
+   "resumo": "Dupla frequência · muito leve",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,2\"",
+    "Bateria no modo relógio": "24 dias",
+    "Bateria com GPS": "38 h",
+    "GPS": "Multibanda",
+    "Métrica de recuperação": "Plataforma EvoLab",
+    "Música offline": "Sim",
+    "Mapas": "Não",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Não",
+    "Resistência à água": "5 ATM",
+    "Peso": "39 g"
+   }
+  },
+  {
+   "id": "fr255m",
+   "nome": "Garmin Forerunner 255 Music",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 1800,
+   "url": "https://trypace.com.br/forerunner-255-music.html",
+   "perfil": [
+    "quem treina com planilha para provas",
+    "triatletas e quem faz provas longas"
+   ],
+   "resumo": "Multibanda · música",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,3\"",
+    "Bateria no modo relógio": "14 dias",
+    "Bateria com GPS": "30 h",
+    "GPS": "Multibanda",
+    "Métrica de recuperação": "Status de VFC",
+    "Música offline": "Sim",
+    "Mapas": "Não",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Sim",
+    "Resistência à água": "5 ATM",
+    "Peso": "49 g"
+   }
+  },
+  {
+   "id": "fr265",
+   "nome": "Garmin Forerunner 265",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 2000,
+   "url": "https://trypace.com.br/forerunner-265.html",
+   "perfil": [
+    "quem já corre com frequência e quer evoluir",
+    "quem treina com planilha para provas"
+   ],
+   "resumo": "AMOLED · GPS multibanda · música",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "AMOLED 1,3\"",
+    "Bateria no modo relógio": "13 dias",
+    "Bateria com GPS": "20 h",
+    "GPS": "Multibanda",
+    "Métrica de recuperação": "Prontidão de treino",
+    "Música offline": "Sim",
+    "Mapas": "Não",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Sim",
+    "Resistência à água": "5 ATM",
+    "Peso": "47 g"
+   }
+  },
+  {
+   "id": "fr945",
+   "nome": "Garmin Forerunner 945",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 2000,
+   "url": "https://trypace.com.br/forerunner-945.html",
+   "perfil": [
+    "triatletas e quem faz provas longas"
+   ],
+   "resumo": "Mapas · música · Garmin Pay",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,2\"",
+    "Bateria no modo relógio": "2 semanas",
+    "Bateria com GPS": "36 h",
+    "GPS": "Simples",
+    "Métrica de recuperação": "Status de treino",
+    "Música offline": "Sim",
+    "Mapas": "Sim",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Sim",
+    "Resistência à água": "5 ATM",
+    "Peso": "50 g"
+   }
+  },
+  {
+   "id": "fr955",
+   "nome": "Garmin Forerunner 955",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 2500,
+   "url": "https://trypace.com.br/forerunner-955.html",
+   "perfil": [
+    "quem treina com planilha para provas",
+    "triatletas e quem faz provas longas"
+   ],
+   "resumo": "Mapas · multibanda · touch",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "MIP 1,3\" touch",
+    "Bateria no modo relógio": "15 dias",
+    "Bateria com GPS": "42 h",
+    "GPS": "Multibanda",
+    "Métrica de recuperação": "Prontidão de treino",
+    "Música offline": "Sim",
+    "Mapas": "Sim",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Sim",
+    "Resistência à água": "5 ATM",
+    "Peso": "52 g"
+   }
+  },
+  {
+   "id": "fr965",
+   "nome": "Garmin Forerunner 965",
+   "marca": "Garmin",
+   "condicao": "seminovo revisado",
+   "preco": 3000,
+   "url": "https://trypace.com.br/forerunner-965.html",
+   "perfil": [
+    "quem treina com planilha para provas",
+    "triatletas e quem faz provas longas"
+   ],
+   "resumo": "AMOLED · mapas · titânio",
+   "especificacoes": {
+    "Condição": "Seminovo revisado",
+    "Tela": "AMOLED 1,4\" touch",
+    "Bateria no modo relógio": "23 dias",
+    "Bateria com GPS": "31 h",
+    "GPS": "Multibanda",
+    "Métrica de recuperação": "Prontidão de treino",
+    "Música offline": "Sim",
+    "Mapas": "Sim",
+    "Multiesporte": "Sim",
+    "Pagamento por aproximação": "Sim",
+    "Resistência à água": "5 ATM",
+    "Peso": "53 g"
+   }
+  }
+ ]
+}

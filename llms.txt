@@ -1,0 +1,40 @@
+# Trypace
+
+> Loja independente de Garmin Forerunner seminovos e revisados em Joinville, SC. Vendas pelo Instagram @trypace. Não é loja oficial Garmin.
+
+Como comprar: o cliente monta a sacola no site e toca em "Finalizar pedido". O site copia uma mensagem com os modelos e o total e abre o direct do Instagram (https://ig.me/m/trypace). Pagamento, retirada em Joinville e envio para outras cidades são combinados na conversa. Também é possível dar um Garmin usado como parte do pagamento (página Upgrade); o valor do usado é avaliado no direct.
+
+Preços em reais (BRL), atualizados em 20/10/2026. Estoque de seminovos muda rápido: confirme disponibilidade no direct.
+
+## Relógios
+- [Garmin Forerunner 55](https://trypace.com.br/forerunner-55.html): R$ 850. GPS · treino sugerido Bateria 2 semanas, GPS simples, tela MIP 1,04", 37 g.
+- [Garmin Forerunner 245](https://trypace.com.br/forerunner-245.html): R$ 900. Status de treino · dinâmicas Bateria 7 dias, GPS simples, tela MIP 1,2", 38,5 g.
+- [Garmin Forerunner 245 Music](https://trypace.com.br/forerunner-245-music.html): R$ 1.200. Música · Garmin Pay Bateria 6 dias, GPS simples, tela MIP 1,2", 38,5 g.
+- [Garmin Forerunner 165](https://trypace.com.br/forerunner-165.html): R$ 1.450. AMOLED · Body Battery Bateria 11 dias, GPS simples, tela AMOLED 1,2", 39 g.
+- [Garmin Forerunner 255](https://trypace.com.br/forerunner-255.html): R$ 1.500. GPS multibanda · modo triathlon Bateria 14 dias, GPS multibanda, tela MIP 1,3", 49 g.
+- [COROS Pace 3](https://trypace.com.br/coros-pace-3.html): R$ 1.600. Dupla frequência · muito leve Bateria 24 dias, GPS multibanda, tela MIP 1,2", 39 g.
+- [Garmin Forerunner 255 Music](https://trypace.com.br/forerunner-255-music.html): R$ 1.800. Multibanda · música Bateria 14 dias, GPS multibanda, tela MIP 1,3", 49 g.
+- [Garmin Forerunner 265](https://trypace.com.br/forerunner-265.html): R$ 2.000. AMOLED · GPS multibanda · música Bateria 13 dias, GPS multibanda, tela AMOLED 1,3", 47 g.
+- [Garmin Forerunner 945](https://trypace.com.br/forerunner-945.html): R$ 2.000. Mapas · música · Garmin Pay Bateria 2 semanas, GPS simples, tela MIP 1,2", 50 g.
+- [Garmin Forerunner 955](https://trypace.com.br/forerunner-955.html): R$ 2.500. Mapas · multibanda · touch Bateria 15 dias, GPS multibanda, tela MIP 1,3" touch, 52 g.
+- [Garmin Forerunner 965](https://trypace.com.br/forerunner-965.html): R$ 3.000. AMOLED · mapas · titânio Bateria 23 dias, GPS multibanda, tela AMOLED 1,4" touch, 53 g.
+
+## Páginas
+- [Loja](https://trypace.com.br/loja.html): catálogo por categoria (para começar, performance, triathlon).
+- [Escolha o Garmin por mim](https://trypace.com.br/escolha.html): quiz de 4 perguntas que indica um modelo do estoque.
+- [Comparar](https://trypace.com.br/comparar.html): até 3 relógios lado a lado. Aceita ?a=fr265&b=fr255&c=fr955 com os ids do catálogo.
+- [Upgrade](https://trypace.com.br/upgrade.html): troca de um Garmin usado por um modelo mais novo.
+
+## Dados
+- [Catálogo em JSON](https://trypace.com.br/catalogo.json): todos os modelos, preços, links e especificações.
+- [Sitemap](https://trypace.com.br/sitemap.xml)
+
+## Perguntas frequentes
+- Os relógios são originais? Sim. Trabalhamos só com relógios originais Garmin e COROS. Conferimos o número de série de cada unidade e garantimos que ele foi desvinculado da conta do dono anterior.
+- Como funciona a compra pelo Instagram? Você monta a sacola aqui no site e toca em Finalizar pedido. O site copia a mensagem com os modelos e o total e abre o nosso direct. Lá a gente confirma a unidade com fotos e combina pagamento e entrega.
+- Garmin seminovo vale a pena? Vale. Os Forerunner recebem atualizações por anos e são feitos para aguentar suor e chuva. Um seminovo revisado tem as mesmas funções do novo (VO2 máx, carga de treino, VFC, Garmin Coach) por um preço bem menor.
+- Qual Garmin escolher para começar a correr? Para quem está começando, o Forerunner 55 cobre tudo: GPS, ritmo, frequência cardíaca e treinos sugeridos. Se quiser tela colorida e métricas de recuperação, o Forerunner 165 é o passo seguinte. Na dúvida, use o Escolha o Garmin por mim.
+- Qual a diferença entre o Forerunner 255 e o 265? Os dois têm GPS multibanda e modo triathlon. O 265 tem tela AMOLED, prontidão de treino e música em todas as versões. O 255 tem tela de baixo consumo e bateria maior com GPS ligado.
+- Tem garantia? Sim. Todos os relógios saem com 90 dias de garantia Trypace contra defeitos de funcionamento.
+- Vocês aceitam meu relógio usado na troca? Aceitamos. Simule na página de Upgrade ou mande no direct o modelo e fotos do seu relógio atual. A gente avalia e desconta do valor.
+- Entregam fora de Joinville? Em Joinville e região dá para retirar em mãos. Para outras cidades, combinamos o envio pelo direct.
